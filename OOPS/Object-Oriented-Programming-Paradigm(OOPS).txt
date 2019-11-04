@@ -1,0 +1,55 @@
+    -------------------------------------------------------------------OBJECT-ORIENTED PROGRAMMING PARADIGM (OOPS)-----------------------------------------------------------------
+
+===================================================================================================================================================================================
+
+-> OOP treats data as a critical element in the program development and does not allow it to flow freely around the system.
+
+-> It ties data more closely to the fuction that operate on it, and protects it from accidental modification from outside functions.
+
+-> The data of an object can be accessed only by the function associated with the object.
+
+-> Functions of the one object can access the functions of other objects.
+
+-> Data is hidden and cannot be accessed by external functions.
+
+
+
+main features of OOPS ( Object- Oriented Programming Paradigm )
+===============================================================
+_________________________________________
+1). Data Hiding and Encapsulation	|
+					|
+2). Polymorphism			|
+					|
+3). Inheritance				|
+					|
+________________________________________|
+
+and others features
+
+4). Dynamic Binding
+
+5). Message Passing
+
+
+================================================================
+
+# OBJECTS
+-----------
+1). Objects are the basic run-time entities in an object-oriented system.
+
+2). Programming problem is analyzed in term of objects and the nature of communtication between them.
+
+3). Object take up space in the memory and have an associated addresss like a record in Pascal, or as structure in C.
+
+4). Object contain Data, and Code to manipulate that data.
+
+# CLASSES
+-----------
+1). The entire set of data and code of an object can be made a user-defined data type with the help of class.
+
+2). Object are variables of the type class. Once a class has been defined, we can create any number of objects belonging to that class.
+
+3). Each object is associated with the data of type class with which they are created.
+
+4). A class is thus a collection of object of similar type. ex- mango, apple of the class fruit. Here class is fruit and mango is object.
